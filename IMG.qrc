@@ -1,0 +1,24 @@
+<RCC>
+    <qresource prefix="/">
+        <file>IMG/Particulas/bottom.png</file>
+        <file>IMG/Particulas/charm.png</file>
+        <file>IMG/Particulas/down.png</file>
+        <file>IMG/Particulas/elec_neut.png</file>
+        <file>IMG/Particulas/electron.png</file>
+        <file>IMG/Particulas/foton.png</file>
+        <file>IMG/Particulas/gluon.png</file>
+        <file>IMG/Particulas/higgs.png</file>
+        <file>IMG/Particulas/incognita.png</file>
+        <file>IMG/Particulas/muon.png</file>
+        <file>IMG/Particulas/muon_neut.png</file>
+        <file>IMG/Particulas/strange.png</file>
+        <file>IMG/Particulas/tau.png</file>
+        <file>IMG/Particulas/tau_neut.png</file>
+        <file>IMG/Particulas/top.png</file>
+        <file>IMG/Particulas/up.png</file>
+        <file>IMG/Particulas/w_boson.png</file>
+        <file>IMG/Particulas/z_boson.png</file>
+        <file>TXT/Datos.card</file>
+        <file>IMG/Particulas/Fondo3.png</file>
+    </qresource>
+</RCC>

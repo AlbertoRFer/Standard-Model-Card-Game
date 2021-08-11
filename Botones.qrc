@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>IMG/Botones/ng_no_down.png</file>
+        <file>IMG/Botones/ng_no_up.png</file>
+        <file>IMG/Botones/ng_yes_down.png</file>
+        <file>IMG/Botones/ng_yes_up.png</file>
+        <file>IMG/Botones/new_game_down.png</file>
+        <file>IMG/Botones/new_game_up.png</file>
+        <file>IMG/Botones/top_ten_down.png</file>
+        <file>IMG/Botones/top_ten_up.png</file>
+        <file>IMG/Botones/continue_down.png</file>
+        <file>IMG/Botones/continue_up.png</file>
+        <file>IMG/Botones/pause_down.png</file>
+        <file>IMG/Botones/pause_up.png</file>
+        <file>IMG/Botones/top10_ok_down.png</file>
+        <file>IMG/Botones/top10_ok_up.png</file>
+        <file>IMG/Botones/name_cancel_down.png</file>
+        <file>IMG/Botones/name_cancel_up.png</file>
+        <file>IMG/Botones/help_down.png</file>
+        <file>IMG/Botones/help_up.png</file>
+    </qresource>
+</RCC>

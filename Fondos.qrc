@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>IMG/Fondos/back.jpg</file>
+        <file>IMG/Fondos/fondo_help.png</file>
+        <file>IMG/Fondos/fondo_newgame.png</file>
+        <file>IMG/Fondos/fondo_top10.png</file>
+        <file>IMG/Fondos/ganar_fondo.png</file>
+        <file>IMG/Fondos/ganar_fondo2.png</file>
+        <file>IMG/Fondos/name_fondo.png</file>
+    </qresource>
+</RCC>
